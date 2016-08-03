@@ -1,0 +1,3 @@
+[submodule "submodule-poc-child"]
+	path = submodule-poc-child
+	url = https://github.com/psibre/submodule-poc-child.git
